@@ -6,7 +6,7 @@ int main (){
 	// banka uygulamasi yapiyoruz Batuhan Samet Demirci.
 	
 	char isim[30]= "Batuhan";
-	int parola =1551;
+	int parola =4040;
 	int bakiye=500;
 	int islem;
 	char istenilenisim[30];
